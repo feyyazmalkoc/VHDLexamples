@@ -10,6 +10,8 @@ Contents:
 - D Flip Flop
 - D Latch with logic gates
 - 2x1 MUX with logic gates
+- 2x1 MUX 16-bit input
+- 16x1 MUX 16-bit input
 - 32x1 MUX with 2x1 MUX
 - 32-bit register
 - Testbenches
